@@ -1,6 +1,8 @@
 # Lab3
 high scale systems
+
 запуск
+
 docker-compose up —build
 потом открываешь вторую консоль и в корне
 sh init.sh (прогони два раза лучше)
